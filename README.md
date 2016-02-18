@@ -14,3 +14,4 @@ You **do not need to indicate each time the columns containing data**, or the tr
 
 ## How to get help
 
+[Refer to the wiki "How-to-get-help" page (https://github.com/OneClickToQif/OneClickToQif/wiki/How-to-get-help)]
