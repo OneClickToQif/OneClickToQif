@@ -1,6 +1,8 @@
 # OneClickToQif
 OneClickToQIF consists of a set of templates and macros, which are used to export data from your spreadsheets to QIF format, as used by programs such as GnuCash, Money and Quicken. You can use the templates as provided, or adapt your own spreadsheet, so your data is automatically exported to QIF with a single click.
 
+![](https://github.com/OneClickToQif/OneClickToQif/blob/master/docs/logo_with_link_small.gif) 
+
 ## Introduction
 
 **_OneClickToQIF_** is a project consisting of a series of spreadsheet templates and macros, which are used to export data (such as bank accounts, mortgage ...) to QIF format, used by programs such as GnuCash, Money and Quicken.
