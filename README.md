@@ -26,3 +26,31 @@ If you have requests or suggestions to improve the project, you can apply at the
 Typically only generic requests that improve the functionality of the project will be addressed. If you have specific needs, you can request at the email above.
 
 [Refer to the wiki "How-to-get-help" page](https://github.com/OneClickToQif/OneClickToQif/wiki/How-to-get-help)
+
+## About the project
+
+### Why did you create this project? Why should I use it?
+
+### Alternatives to OneClickToQIF
+
+### How to join the project
+
+## Using the spreadsheet templates
+
+### Where do I start?
+
+### How to download bank account transactions and export them to QIF
+
+### What are the "auxiliary formulas" columns?
+
+### How can I re-export a set of transactions?
+
+## Adapting your own spreadsheet to export data
+
+### Simple vs. Split Transactions
+
+### How to adapt a spreadsheet with simple transactions
+
+### How to adapt a spreadsheet with split transactions
+
+
