@@ -14,4 +14,13 @@ You **do not need to indicate each time the columns containing data**, or the tr
 
 ## How to get help
 
-[Refer to the wiki "How-to-get-help" page (https://github.com/OneClickToQif/OneClickToQif/wiki/How-to-get-help)]
+Please first check the documentation on the [project wiki](https://github.com/OneClickToQif/OneClickToQif/wiki)
+
+If you do not find there what you need, you can send an email directly to the author:
+oneclicktoqif@gmail.com
+
+If you have requests or suggestions to improve the project, you can apply at the [GitHub wiki issues page] (https://github.com/OneClickToQif/OneClickToQif/issues)
+
+Typically only generic requests that improve the functionality of the project will be addressed. If you have specific needs, you can request at the email above.
+
+[Refer to the wiki "How-to-get-help" page](https://github.com/OneClickToQif/OneClickToQif/wiki/How-to-get-help)
