@@ -1,9 +1,5 @@
-# OneClickToQif
-OneClickToQIF consists of a set of templates and macros, which are used to export data from your spreadsheets to QIF format, as used by programs such as GnuCash, Money and Quicken. You can use the templates as provided, or adapt your own spreadsheet, so your data is automatically exported to QIF with a single click.
 
 ![](https://github.com/OneClickToQif/OneClickToQif/blob/master/docs/logo_with_link_small.gif) 
-
-## Introduction
 
 **_OneClickToQIF_** is a project consisting of a series of spreadsheet templates and macros, which are used to export data (such as bank accounts, mortgage ...) to QIF format, used by programs such as GnuCash, Money and Quicken.
 
@@ -14,43 +10,47 @@ Every tab is automatically exported from the spreadsheet to QIF files, both asse
 
 You **do not need to indicate each time the columns containing data**, or the transactions to be exported: just label the columns the first time you use the template. Only new movements (those who have never been exported) will be exported to the QIF file.
 
-## How to get help
+## [License](https://github.com/OneClickToQif/OneClickToQif/wiki/License)
 
-Please first check the documentation on the [project wiki](https://github.com/OneClickToQif/OneClickToQif/wiki)
+OneClickToQIF  is licensed GNU GPL v3: You can use the software free of charge study, share and modify.
 
-If you do not find there what you need, you can send an email directly to the author:
-oneclicktoqif@gmail.com
+See details: <https://github.com/OneClickToQif/OneClickToQif/blob/master/LICENSE>
 
-If you have requests or suggestions to improve the project, you can apply at the [GitHub wiki issues page] (https://github.com/OneClickToQif/OneClickToQif/issues)
+## [How to get help](https://github.com/OneClickToQif/OneClickToQif/wiki/How-to-get-help)
 
-Typically only generic requests that improve the functionality of the project will be addressed. If you have specific needs, you can request at the email above.
+## [About the project](https://github.com/OneClickToQif/OneClickToQif/wiki/About-the-project)
 
-[Refer to the wiki "How-to-get-help" page](https://github.com/OneClickToQif/OneClickToQif/wiki/How-to-get-help)
+[Why did you create this project? Why should I use it?]
+(https://github.com/OneClickToQif/OneClickToQif/wiki/About-the-project)
 
-## About the project
+[How to join the project]
+(https://github.com/OneClickToQif/OneClickToQif/wiki/About-the-project)
 
-### Why did you create this project? Why should I use it?
+## [Alternatives to OneClickToQIF](https://github.com/OneClickToQif/OneClickToQif/wiki/Alternatives-to-OneClickToQIF)
 
-### Alternatives to OneClickToQIF
+## [Using the spreadsheet templates](https://github.com/OneClickToQif/OneClickToQif/wiki/Using-the-spreadsheet-templates)
 
-### How to join the project
+[Where do I start?]
+(https://github.com/OneClickToQif/OneClickToQif/wiki/Using-the-spreadsheet-templates)
 
-## Using the spreadsheet templates
+[How to download bank account transactions and export them to QIF]
+(https://github.com/OneClickToQif/OneClickToQif/wiki/Using-the-spreadsheet-templates)
 
-### Where do I start?
+[What are the "auxiliary formulas" columns?]
+(https://github.com/OneClickToQif/OneClickToQif/wiki/Using-the-spreadsheet-templates)
 
-### How to download bank account transactions and export them to QIF
+[How can I re-export a set of transactions?]
+(https://github.com/OneClickToQif/OneClickToQif/wiki/Using-the-spreadsheet-templates)
 
-### What are the "auxiliary formulas" columns?
+## [Adapting your own spreadsheet to export data](https://github.com/OneClickToQif/OneClickToQif/wiki/Adapting-your-own-spreadsheet-to-export-data)
 
-### How can I re-export a set of transactions?
+[Simple vs. Split Transactions]
+(https://github.com/OneClickToQif/OneClickToQif/wiki/Adapting-your-own-spreadsheet-to-export-data)
 
-## Adapting your own spreadsheet to export data
+[How to adapt a spreadsheet with simple transactions]
+(https://github.com/OneClickToQif/OneClickToQif/wiki/Adapting-your-own-spreadsheet-to-export-data)
 
-### Simple vs. Split Transactions
-
-### How to adapt a spreadsheet with simple transactions
-
-### How to adapt a spreadsheet with split transactions
+[How to adapt a spreadsheet with split transactions]
+(https://github.com/OneClickToQif/OneClickToQif/wiki/Adapting-your-own-spreadsheet-to-export-data)
 
 
